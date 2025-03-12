@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
-- 👨‍💻 All of my projects are available at [https://frank-liu.netlify.app/](https://frank-liu.netlify.app/)
-
-- 📫 How to reach me **bliu39368@gmail.com**
-
 - ⚡ Fun fact **I like to do everything in increments of 5 minutes**
 
 <h3 align="left">Connect with me:</h3>
