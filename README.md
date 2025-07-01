@@ -13,6 +13,8 @@ I'm a frontend-focus Software Engineer based in Bay Area, CA. After 5 years in r
 ## 🛠️ Projects
 - ☕︎ [**BeanThere**](https://github.com/UilKnarf/coffee-network): Full-stack web application enabling coffee enthusiasts to connect, share posts, comment, and receive personalized coffee recommendations
 
+- PrepAI(actively building): This project will be an AI-powered interview preparation chatbot that uses a React frontend, Node.js backend, and a large audio-language model like Qwen2-Audio to provide mock interview experiences, convert candidate speech to text, generate questions and feedback, and analyze sentiment for continuous improvement.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
